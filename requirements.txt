@@ -1,0 +1,42 @@
+# Core Data Science Libraries
+pandas>=2.0.0
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Visualization Libraries
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.14.0
+
+# Jupyter and Notebook Tools
+jupyter>=1.0.0
+notebook>=6.5.0
+ipywidgets>=8.0.0
+ipykernel>=6.22.0
+
+# Kaggle API for Data Download
+kaggle>=1.5.16
+
+# Statistical Analysis
+scikit-learn>=1.2.0
+statsmodels>=0.14.0
+
+# Utility Libraries
+tqdm>=4.65.0
+python-dotenv>=1.0.0
+
+# Data Quality and Cleaning
+missingno>=0.5.2
+
+# Animation and Interactive Visualizations (optional but useful)
+imageio>=2.31.0
+pillow>=10.0.0
+
+# Performance (optional, for faster operations)
+numba>=0.57.0
+
+# Video Creation (if doing Broadcast Track)
+moviepy>=1.0.3
+
+# Export and Reporting
+kaleido>=0.2.1  # For exporting plotly figures
