@@ -179,7 +179,7 @@ Key visualizations in `figures/` directory:
 
 - [x] Kaggle Writeup (under 2000 words)
 - [x] Media Gallery with cover image
-- [x] Public notebook attached
+- [ ] Public notebook attached
 - [ ] Less than 10 figures/tables
 - [ ] Video (if Broadcast Track, 3 min max)
 
@@ -215,10 +215,8 @@ This project is for the NFL Big Data Bowl 2026 competition.
 
 ## Contact
 
-[Your Name]
-[Your Email]
-[Your Kaggle Profile URL]
+Jean Paul
+jp86miter@gmail.com
+[Kaggle Profile](https://www.kaggle.com/jeanpaulm)
 
 ---
-
-**Last Updated**: October 3, 2025
