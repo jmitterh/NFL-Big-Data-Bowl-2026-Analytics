@@ -752,8 +752,6 @@ You now have 8 publication-ready figures that:
 ✓ Analyze key factors (speed, distance, position)
 ✓ Compare defenders vs receivers
 ✓ Summarize key insights
-
-Next: Write your Kaggle submission writeup!
 """
 )
 
